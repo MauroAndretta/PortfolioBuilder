@@ -1,0 +1,11 @@
+name: portfolio_builder
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip:
+    - yfinance
+    - requests_cache 
+    - requests 
+    - requests_ratelimiter 
+    - pyrate_limiter

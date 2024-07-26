@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# yfinance chace
+yfinance.cache
+
 # Distribution / packaging
 .Python
 build/

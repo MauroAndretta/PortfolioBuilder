@@ -9,6 +9,9 @@ __pycache__/
 # yfinance chace
 yfinance.cache
 
+# datasets
+companies_data/
+
 # Distribution / packaging
 .Python
 build/
